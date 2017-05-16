@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\skrip\pelormusuh.cs">
+    <Files>
+      <File FileName="Assets\skrip\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\skrip\spawner.cs" Line="61" Column="7" />
+      <File FileName="Assets\skrip\tembak.cs" Line="73" Column="35" />
+      <File FileName="Assets\skrip\pelors.cs" Line="21" Column="3" />
+      <File FileName="Assets\skrip\EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\skrip\EnemyController.cs" Line="24" Column="1" />
+      <File FileName="Assets\skrip\dmgplayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\skrip\pelormusuh.cs" Line="11" Column="2" />
+      <File FileName="Assets\skrip\enemyshoot.cs" Line="28" Column="101" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -11,7 +11,7 @@ public class tembak : MonoBehaviour
 	private float volLowRange = .5f;
 	private float volHiRange = 1.0f;
 
-	public bool nembak;
+	private bool nembak;
 
 	public pelors pelor;
 	public float pelorsspeed;
@@ -86,5 +86,15 @@ public class tembak : MonoBehaviour
 		reload = false;
 		tempPelor = maxPelor;
 		ammocount.text = tempPelor.ToString();
+	}
+
+	//gettter & setter
+
+	public void setNembak(bool nembak){
+		this.nembak = nembak;
+	}
+
+	public bool getNembak(){
+		return nembak;
 	}
 }

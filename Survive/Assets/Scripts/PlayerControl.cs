@@ -46,13 +46,12 @@ public class PlayerControl : MonoBehaviour {
 
 			transform.LookAt(new Vector3(pointToLook.x, transform.position.y, pointToLook.z));
 		}
-		if(Input.GetMouseButtonDown(0))
+		if (Input.GetMouseButtonDown (0))
+			pestol.setNembak (true);
+		
 
-			pestol.nembak = true;
-
-
-		if(Input.GetMouseButtonUp(0))
-			pestol.nembak = false;
+		if (Input.GetMouseButtonUp (0))
+			pestol.setNembak (false);
 		
 	}
 

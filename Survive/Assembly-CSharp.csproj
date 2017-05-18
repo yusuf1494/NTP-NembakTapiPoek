@@ -45,21 +45,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\skrip\CameraControl.cs" />
-     <Compile Include="Assets\skrip\EnemyController.cs" />
-     <Compile Include="Assets\skrip\EnemyHealth.cs" />
-     <Compile Include="Assets\skrip\LoadSceneOnClick.cs" />
-     <Compile Include="Assets\skrip\PlayerControl.cs" />
-     <Compile Include="Assets\skrip\PlayerHealth.cs" />
-     <Compile Include="Assets\skrip\QuitOnClick.cs" />
-     <Compile Include="Assets\skrip\Rotator.cs" />
-     <Compile Include="Assets\skrip\Timer.cs" />
-     <Compile Include="Assets\skrip\dmgplayer.cs" />
-     <Compile Include="Assets\skrip\enemyshoot.cs" />
-     <Compile Include="Assets\skrip\pelormusuh.cs" />
-     <Compile Include="Assets\skrip\pelors.cs" />
-     <Compile Include="Assets\skrip\spawner.cs" />
-     <Compile Include="Assets\skrip\tembak.cs" />
+     <Compile Include="Assets\Scripts\CameraControl.cs" />
+     <Compile Include="Assets\Scripts\DamagePlayerController.cs" />
+     <Compile Include="Assets\Scripts\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\EnemyHealth.cs" />
+     <Compile Include="Assets\Scripts\LoadSceneOnClick.cs" />
+     <Compile Include="Assets\Scripts\PlayerControl.cs" />
+     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
+     <Compile Include="Assets\Scripts\QuitOnClick.cs" />
+     <Compile Include="Assets\Scripts\Rotator.cs" />
+     <Compile Include="Assets\Scripts\Timer.cs" />
+     <Compile Include="Assets\Scripts\enemyshoot.cs" />
+     <Compile Include="Assets\Scripts\pelormusuh.cs" />
+     <Compile Include="Assets\Scripts\pelors.cs" />
+     <Compile Include="Assets\Scripts\spawner.cs" />
+     <Compile Include="Assets\Scripts\tembak.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class PlayerHealth : MonoBehaviour {
@@ -10,13 +11,14 @@ public class PlayerHealth : MonoBehaviour {
 	public Transform lights;
 	public spawner otherscript;
 
-
+	public Text healthCount;
 
 
 
 	void Start () 
 	{
 		currentHealth = maxHealth;
+		healthCount.text = currentHealth.ToString ();
 	}
 	
 
@@ -34,5 +36,6 @@ public class PlayerHealth : MonoBehaviour {
 	public void dmgplayer(int dmgamount)
 	{
 		currentHealth -= dmgamount;
+		healthCount.text = currentHealth.ToString ();
 	}
 }

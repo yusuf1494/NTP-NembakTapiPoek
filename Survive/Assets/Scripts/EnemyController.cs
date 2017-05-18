@@ -6,7 +6,7 @@ public class EnemyController : MonoBehaviour {
 	private Rigidbody myRB;
 	public float moveSpeed;
 
-	public PlayerControl thePlayer;
+	private PlayerControl thePlayer;
 
 	// Use this for initialization
 	void Start () 

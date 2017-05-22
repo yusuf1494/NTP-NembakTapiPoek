@@ -37,5 +37,6 @@ public class PlayerHealth : MonoBehaviour {
 	{
 		currentHealth -= dmgamount;
 		healthCount.text = currentHealth.ToString ();
+
 	}
 }

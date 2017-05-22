@@ -2,6 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\skrip\DamagePlayerController.cs">
     <Files>
+<<<<<<< Updated upstream
       <File FileName="Assets\skrip\tembak.cs" Line="1" Column="1" />
       <File FileName="Assets\skrip\PlayerControl.cs" Line="1" Column="1" />
       <File FileName="Assets\skrip\PlayerHealth.cs" Line="44" Column="26" />
@@ -9,6 +10,12 @@
       <File FileName="Assets\skrip\EnemyController.cs" Line="1" Column="1" />
       <File FileName="Assets\skrip\EnemyHealth.cs" Line="1" Column="1" />
       <File FileName="Assets\skrip\enemyshoot.cs" Line="1" Column="1" />
+=======
+      <File FileName="Assets\skrip\tembak.cs" Line="56" Column="35" />
+      <File FileName="Assets\skrip\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\skrip\pelormusuh.cs" Line="1" Column="1" />
+      <File FileName="Assets\skrip\EnemyController.cs" Line="1" Column="1" />
+>>>>>>> Stashed changes
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

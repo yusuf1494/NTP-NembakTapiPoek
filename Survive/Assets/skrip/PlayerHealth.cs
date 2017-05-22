@@ -32,11 +32,16 @@ public class PlayerHealth : MonoBehaviour {
 			canvas.gameObject.SetActive(true);
 			timerspawner.gameObject.SendMessage("ended");
 		}
+		print (lights.gameObject.active);
 	}
 	public void dmgplayer(int dmgamount)
 	{
 		currentHealth -= dmgamount;
 		healthCount.text = currentHealth.ToString ();
-
+		lights.gameObject.SetActive(true);
 	}
+
+	public void turnLightOff(){
+		lights.gameObject.SetActive(false);
+	}	
 }

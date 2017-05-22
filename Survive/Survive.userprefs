@@ -4,24 +4,12 @@
     <Files>
       <File FileName="Assets\skrip\tembak.cs" Line="1" Column="1" />
       <File FileName="Assets\skrip\PlayerControl.cs" Line="1" Column="1" />
-      <File FileName="Assets\skrip\PlayerHealth.cs" Line="40" Column="1" />
-      <File FileName="Assets\skrip\DamagePlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\skrip\PlayerHealth.cs" Line="44" Column="26" />
+      <File FileName="Assets\skrip\DamagePlayerController.cs" Line="18" Column="67" />
       <File FileName="Assets\skrip\EnemyController.cs" Line="1" Column="1" />
-      <File FileName="Assets\skrip\EnemyHealth.cs" Line="7" Column="26" />
+      <File FileName="Assets\skrip\EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\skrip\enemyshoot.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Survive" expanded="True">
-            <Node name="Assembly-CSharp" expanded="True">
-              <Node name="skrip" expanded="True">
-                <Node name="DamagePlayerController.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

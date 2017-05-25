@@ -49,6 +49,7 @@
      <Compile Include="Assets\skrip\DamagePlayerController.cs" />
      <Compile Include="Assets\skrip\EnemyController.cs" />
      <Compile Include="Assets\skrip\EnemyHealth.cs" />
+     <Compile Include="Assets\skrip\FlickerLight.cs" />
      <Compile Include="Assets\skrip\LoadSceneOnClick.cs" />
      <Compile Include="Assets\skrip\PlayerControl.cs" />
      <Compile Include="Assets\skrip\PlayerHealth.cs" />

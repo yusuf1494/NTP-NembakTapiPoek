@@ -4,5 +4,5 @@ NTP is a survival shooting game where you playing as a man stranded in darkness 
 
 ## Here's the gameplay video. Just watch and see the awesomeness of this game
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ff38wqXo9Gc
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/Ff38wqXo9Gc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>

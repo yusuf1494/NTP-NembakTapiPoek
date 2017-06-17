@@ -39,15 +39,13 @@ Well this game has common default control like any other games. Check this out..
 ***
 
 ## Features so far...
-***
-Your score define by how long you can survive
-***
-The player has 10 health, You should consider about positioning.
-***
-He has a gun with 30 bullets. Which is can be reloaded.
-***
-Every 1 minute a boss will spawn. You might want to kill the boss quickly as you can, and it's not gonna be easy.
-***
+
+| No   | Feature |
+| ------ |:----------:
+| 1      | Your score define by how long you can survive   |
+| 2      | The player has 10 health, You should consider about positioning. |
+| 3      | He has a gun with 30 bullets. Which is can be reloaded. |
+| 4      | Every 1 minute a boss will spawn. You might want to kill the boss quickly as you can, and it's not gonna be easy.|
 
 ## Here's the gameplay video. Just watch and see the awesomeness of this game
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ff38wqXo9Gc

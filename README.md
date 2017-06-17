@@ -50,7 +50,7 @@ Well this game has common default control like any other games. Check this out..
 ## Here's the gameplay video. Just watch and see the awesomeness of this game
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ff38wqXo9Gc
 " target="_blank"><img src="http://img.youtube.com/vi/Ff38wqXo9Gc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="879" height="301" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="879" height="420" border="10" /></a>
 
 # WIDYATAMA UNIVERSITY BANDUNG
 ### 061303006 - YUSUF NUGRAHA

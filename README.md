@@ -41,7 +41,7 @@ Well this game has common default control like any other games. Check this out..
 ## Features so far...
 
 | No     | Feature                                                                                                          |
-| ------ |:-----------------------------------------------------------------------------------------------------------------:
+| ------ |:------------------------------------------------------------------------------------------------------------------
 | 1      | Your score define by how long you can survive                                                                    |
 | 2      | The player has 10 health, You should consider about positioning.                                                 |
 | 3      | He has a gun with 30 bullets. Which is can be reloaded.                                                          |

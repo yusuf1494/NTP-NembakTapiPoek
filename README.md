@@ -19,19 +19,19 @@ Well this game has common default control like any other games. Check this out..
 ## Here's list entities in our game
 
 The Player
-![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/source/playrpic.png "The Player")
+![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/playrpic.png "The Player")
 ***
 Easy Enemy
-![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/source/skullpic.png "The Easy Enemy")
+![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/skullpic.png "The Easy Enemy")
 ***
 Normal Enemy
-![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/source/monspic.png "The Normal Enemy")
+![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/monspic.png "The Normal Enemy")
 ***
 The non lethal enemy, but still gives you creepy atmosphere
-![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/source/hilpic.png "The Non Lethal Enemy")
+![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/hillpic.png "The Non Lethal Enemy")
 ***
 The NOPE enemy a.k.a Boss
-![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/source/bosspic.png "BOSS!!")
+![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/bosspic.png "BOSS!!")
 
 ## Features so far...
 Your score define by how long you can survive

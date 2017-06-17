@@ -16,21 +16,26 @@ Well this game has common default control like any other games. Check this out..
 | L-Click| Shoot     |
 | R      | Reload    |
 
-## Here's list entities in our game
+## Here's list of entity in our game
 
 The Player
+***
 ![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/playrpic.png "The Player")
 ***
 Easy Enemy
+***
 ![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/skullpic.png "The Easy Enemy")
 ***
 Normal Enemy
+***
 ![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/monspic.png "The Normal Enemy")
 ***
 The non lethal enemy, but still gives you creepy atmosphere
-![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/hillpic.png "The Non Lethal Enemy")
+***
+![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/hilpic.png "The Non Lethal Enemy")
 ***
 The NOPE enemy a.k.a Boss
+***
 ![alt text](https://github.com/yusuf1494/NTP-NembakTapiPoek/blob/master/source/bosspic.png "BOSS!!")
 
 ## Features so far...
